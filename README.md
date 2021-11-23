@@ -1,0 +1,3 @@
+- 👨‍💻 Hi, I’m Aaron
+- 👀 I’m interested in JS and Typescript
+- 🌱 I’m currently learning Javascript
