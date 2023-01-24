@@ -1,3 +1,3 @@
-- 👨‍💻 Hi, I’m Aaron
-- 👀 I’m interested in JS and Typescript
-- 🌱 I’m currently learning Javascript
+- 👨‍💻 Hi, I’m Aaron.
+- 👀 I’m interested in JS, TS and Golang.
+- 🌱 I’m currently learning Javascript.
